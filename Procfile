@@ -1,1 +1,1 @@
-rackup -s thin -E production
+web: rackup -s thin -E production
