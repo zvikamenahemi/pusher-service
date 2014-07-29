@@ -1,1 +1,1 @@
-web: rackup -s thin -E production
+web: bundle exec rackup -s thin -E production
