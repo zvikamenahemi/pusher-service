@@ -1,1 +1,0 @@
-web: rackup config.ru -s thin -E production -p 9292
